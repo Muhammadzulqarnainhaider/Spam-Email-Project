@@ -45,9 +45,9 @@ To run this project, ensure you have the following Python libraries installed:
 You can install the dependencies by running the following command:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt ```
 
-Usage
+**Usage**
 Install the required dependencies by running the command:
 
 
