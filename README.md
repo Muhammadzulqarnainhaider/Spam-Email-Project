@@ -45,17 +45,17 @@ To run this project, ensure you have the following Python libraries installed:
 You can install the dependencies by running the following command:
 
 ```bash
-pip install -r requirements.txt```
+pip install -r requirements.txt
 
 Usage
 Install the required dependencies by running the command:
 
 
 ```bash
-  pip install -r requirements.txt```
+  pip install -r requirements.txt
 Run the Jupyter Notebook:
 
 
 ```bash
-jupyter notebook```
+jupyter notebook
 Open main.ipynb and execute the cells to train and evaluate the model.
